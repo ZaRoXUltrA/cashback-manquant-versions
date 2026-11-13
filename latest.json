@@ -1,0 +1,8 @@
+{
+ "version": "1.5.7",
+ "file": "Setup Cashback manquant 1.5.7.exe",
+ "sha256": "feadfd33c6d395019149a5b4a663962e05105f541459cb702b1bd7c57c2058b6",
+ "notes": "Analyse beaucoup plus rapide : environ 30 s au lieu de 2 min 30 (mails déjà lus gardés en mémoire, boîtes Gmail interrogées en même temps, historique R&R lu pendant la recherche des mails).",
+ "date": "2026-11-13",
+ "signature": "rEfB_iEMbWW7CMuaT_h-w7jz_rdrZSplARN_gjx7n7vbOrEmjbl4-lpHV39hS7KzA1hIy0ZaWKXsup65604aAg"
+}
