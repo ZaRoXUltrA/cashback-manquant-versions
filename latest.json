@@ -1,0 +1,8 @@
+{
+ "version": "1.5.9",
+ "file": "Setup Cashback manquant 1.5.9.exe",
+ "sha256": "18caa8cf865814e8c76b805730af371ca9e4ac4093006782fac518d2f3f2516a",
+ "notes": "Nouvel onglet « Pas à ton nom » : les commandes au nom de quelqu'un d'autre (mail transféré depuis une autre boîte, autre prénom) ne sont plus proposées à la réclamation, car R&R les refuse. Bouton « C'est bien à mon nom » en cas d'erreur.",
+ "date": "2026-11-15",
+ "signature": "1KUu_9A9mdZ3PYahQJ-c8I_YPYlSz54ltwWaHQ4uCJ7O45ssjFrOcqDOZRyGcWbBpF8U5jZwL1eQb89ZROFkDg"
+}
